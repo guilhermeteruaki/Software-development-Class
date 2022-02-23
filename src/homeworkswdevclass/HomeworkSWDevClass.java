@@ -29,8 +29,8 @@ public class HomeworkSWDevClass {
                     is it better to call the main metod again or to use do/whiles ?*/
                 } else{
                     double proportionalGrade = (userGrade/100)*25; //manipulates the variable as needed
-                    System.out.printf("Your grade was %.1f%% that is equivalent to %.2f%% "
-                                     + "of your total grade.\n", userGrade, proportionalGrade);
+                    System.out.printf("Your grade was %.1f%% that is equivalent to "
+                                     + "%.2f%% of your total grade.", userGrade, proportionalGrade);
                 }
                 endLoop = true; //set the loop to end since inputs were valid.
                       
