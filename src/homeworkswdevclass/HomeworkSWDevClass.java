@@ -14,5 +14,5 @@ public class HomeworkSWDevClass {
 
     public static void main(String[] args) {
         
-    testAnswer = new homework2()
+        System.out.println("test");
 }
