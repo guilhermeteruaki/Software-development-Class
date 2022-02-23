@@ -8,6 +8,7 @@ import java.util.Scanner;
 /**
  *
  * @author guilherme teruaki CCT No 2022047
+ * This is HOMEWORK 2 from week 2
  */
 public class HomeworkSWDevClass {
 
@@ -38,31 +39,6 @@ public class HomeworkSWDevClass {
                 scanInput.nextLine(); // without it the loob will bug and enter a infinite loop
                         }
         } while(endLoop==false); //condition to finish the while loop.
-    
-     
-        
-        
-        
-        
-        
-        
-        
-//        System.out.println("Please tell me your age");
-//        try{
-//           int age=scanInput.nextInt();
-//           if (age<=18){
-//               System.out.println("GO BACK TO SCHOOL");
-//           }
-//           else if (age>=19 && age<=66){
-//               System.out.println("work for money");
-//           }
-//           else{
-//               System.out.println("Retire");
-//           }
-//        }catch (InputMismatchException e) {
-//            System.out.println("that's not a number");
-//        }
-       
     }    
 
 }
