@@ -2,6 +2,8 @@ package homeworkswdevclass;
 
 
 import Homeworks.*;
+import ClassExercises.*;
+
 
 
 /**
@@ -10,11 +12,11 @@ import Homeworks.*;
   */
 public class HomeworkSWDevClass {
 
-    public static Homework2 testHomework = new Homework2();
+    public static week_3 testHomework = new week_3();
     
     public static void main(String[] args) {
        
-        testHomework.homework2();
+        System.out.println(testHomework.factorial());
       
         
     }    
