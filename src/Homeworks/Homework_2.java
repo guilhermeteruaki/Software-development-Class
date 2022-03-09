@@ -12,7 +12,7 @@ import java.util.Scanner;
  * @author guilh
  * This is HOMEWORK 2 from week 2
  */
-public class Homework2 {
+public class Homework_2 {
     public void homework2(){
         Scanner scanInput = new Scanner(System.in); //initiates the scanner
         boolean endLoop = false; //manages the loop
